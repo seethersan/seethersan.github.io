@@ -1,13 +1,7 @@
-Grayscale Jekyll theme
-=========================
+Portafolio Juan Carlos Espinoza Zurita
+=======================================
 
-Jekyll theme based on [Grayscale bootstrap theme ](http://ironsummitmedia.github.io/startbootstrap-grayscale/)
-
-## Demo
-View this jekyll theme in action [here](https://jeromelachaud.github.io/grayscale-theme)
-
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/grayscale-theme/master/screenshot.png)
+Portafolio elaborado con Jekyll y con el tema [Grayscale bootstrap theme ](http://ironsummitmedia.github.io/startbootstrap-grayscale/)
 
 =========
 For more details, read the [documentation](http://jekyllrb.com/)
