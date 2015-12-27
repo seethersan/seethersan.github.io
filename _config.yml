@@ -1,0 +1,28 @@
+# Site settings
+title: Portafolio Juan Carlos Espinoza Zurita
+email: carlos_jcez@hotmail.com
+url: https://seethersan.github.io/portafolio
+description: "Portafolio de Juan Carlos Espinoza Zurita. Soy profesional web especializado en backend con conocimiento en Django, Python, JavaScript, Git"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: Your Website
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/seethersan
+  - title: facebook
+    url: https://www.facebook.com/juanespinozazurita
+  - title: linkedin
+    url: https://pe.linkedin.com/in/seethersan
+  - title: github
+    url: https://github.com/seethersan
+
+# Build settings
+markdown: kramdown
+permalink: pretty
