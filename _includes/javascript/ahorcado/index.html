@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8"/>
+	<title>Ahorcado</title>
+	<style type="text/css">
+	body
+	{
+		background: black;
+		color: white;
+		text-align: center;
+	}
+	</style>
+	<script type="text/javascript" src="/js/ahorcado/ahorcado.js"></script>
+</head>
+<section id="about" class="container content-section text-center">
+	<h1>Adivina letra a letra</h1>
+	<canvas id="campo"></canvas>
+	<p>Elige una letra:
+		<input style="color: black" type="text" id="letra"/>
+		<input style="color: black" type="button" id="boton" value="Agregar"/></p>
+	<h2 id="resultado">_ _ _ _ _ _ _ _ _</h2>
+	<script type="text/javascript">inicio();</script>
+</section>
